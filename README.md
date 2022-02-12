@@ -1,4 +1,4 @@
-Docker Archlinux Systemd
+Archlinux Systemd
 ========================
 
 This Dockerfile can build containers capable to use systemd.
@@ -25,5 +25,5 @@ docker run \
   --tty \
   --privileged \
   --volume /sys/fs/cgroup:/sys/fs/cgroup:ro \
-  robertdebock/docker-archlinux-systemd
+  buluma/archlinux
 ```
