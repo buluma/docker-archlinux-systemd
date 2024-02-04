@@ -58,6 +58,6 @@ jobs:
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
-          repository: buluma/amazonlinux
+          repository: buluma/archlinux
           short-description: ${{ github.event.repository.description }}
           enable-url-completion: true
