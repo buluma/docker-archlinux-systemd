@@ -1,4 +1,4 @@
-FROM archlinux:latest
+FROM archlinux
 
 LABEL maintainer="Michael Buluma <me@buluma.me.ke>"
 LABEL build_date="2022-02-12"
