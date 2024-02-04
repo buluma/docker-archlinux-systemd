@@ -1,5 +1,6 @@
 Archlinux Systemd
 ========================
+[![build-push](https://github.com/buluma/docker-archlinux-systemd/actions/workflows/docker-build.yml/badge.svg)](https://github.com/buluma/docker-archlinux-systemd/actions/workflows/docker-build.yml) [![Docker Pulls](https://img.shields.io/docker/pulls/buluma/archlinux)](https://github.com/buluma/docker-archlinux-systemd)
 
 This Dockerfile can build containers capable to use systemd.
 
